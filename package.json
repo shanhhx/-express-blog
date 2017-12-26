@@ -1,0 +1,29 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shx",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "config-lite": "^2.1.0",
+    "connect-flash": "^0.1.1",
+    "connect-mongo": "^2.0.0",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-formidable": "^1.0.0",
+    "express-session": "^1.15.6",
+    "express-winston": "^2.4.0",
+    "jquery": "^3.2.1",
+    "marked": "^0.3.7",
+    "moment": "^2.19.3",
+    "mongolass": "^3.1.5",
+    "objectid-to-timestamp": "^1.3.0",
+    "sha1": "^1.1.1",
+    "winston": "^2.4.0"
+  }
+}
